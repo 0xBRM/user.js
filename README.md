@@ -37,3 +37,6 @@ TODO list:
 * Describe what each about:config entry does.
 
 
+
+
+For a user.js with more emphasis on security (occasionally at the cost of functionality, like when you completely disable DOM storage, for instance), and less emphasis on blending in, check [pyllyukko's user.js](https://github.com/pyllyukko/user.js).
