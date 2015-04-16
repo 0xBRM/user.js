@@ -13,7 +13,7 @@ Extensions:
 * HTTPS Finder
 * HTTPS-Everywhere 
 * Policeman (in default-deny mode)
-* uBlock
+* uBlock by Gorhill
 
 
 ======================
