@@ -12,7 +12,7 @@ Extensions:
 * Blender (uncheck "force HTTP_ACCEPT headers")
 * HTTPS Finder
 * HTTPS-Everywhere 
-* Policeman (in default-deny mode)
+* ~~Policeman~~ uMatrix (in default-deny mode)
 * uBlock by Gorhill
 
 
