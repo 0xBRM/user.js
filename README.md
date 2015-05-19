@@ -8,12 +8,11 @@ Notes:
 * webGL is turned on for my convenience.
 
 Extensions:
-* BetterPrivacy 
-* Blender (uncheck "force HTTP_ACCEPT headers")
-* HTTPS Finder
-* HTTPS-Everywhere 
-* ~~Policeman~~ uMatrix (in default-deny mode)
-* uBlock by Gorhill
+* [BetterPrivacy](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/)
+* [HTTPS Finder](https://github.com/kevinjacobs/HTTPS-Finder)
+* [HTTPS-Everywhere](https://github.com/EFForg/https-everywhere)
+* ~~Policeman~~ [uMatrix](https://github.com/gorhill/uMatrix/) (in default-deny mode)
+* [uBlock by Gorhill](https://github.com/gorhill/ublock/)
 
 
 ======================
