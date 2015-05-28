@@ -5,7 +5,10 @@
 Notes:
 * DOM storage's size has been reduced, but has not been disabled for compatibility purposes;
 * Smooth scrolling flags have been altered to match my preferences, as well as performance sensitive settings to increase the latter;
-* webGL is turned on for my convenience.
+* webGL is turned on for my convenience;
+* Fonts used:
+
+    Serif: Tinos, Sans-serif: Arimo, Monospace: Cousine.
 
 Extensions:
 * [BetterPrivacy](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/)
