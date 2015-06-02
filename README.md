@@ -44,4 +44,4 @@ TODO list:
 For a user.js with more emphasis on security (occasionally at the cost of functionality, like when you completely disable DOM storage, for instance), and less emphasis on blending in, check [pyllyukko's user.js](https://github.com/pyllyukko/user.js).
 
 
-**Note:** This is my prefs.js file. Rename it to user.js and remove some of the entries unless you want my full FF profile, which is only ok to do if you're using the same set of extensions, complete with lower latency smooth scrolling, different fonts (with better hinting, refer to [this](https://wiki.archlinux.org/index.php/Croscore_Fonts)), network related tweaks to squeeze some performance out of it, general performance based settings, amongst other things.
+**Note:** This is my full FF profile (this user.js plus defaults), complete with lower latency smooth scrolling, different fonts (with better hinting, refer to [this](https://wiki.archlinux.org/index.php/Croscore_Fonts)), network related tweaks to squeeze some performance out of it, general performance based settings, amongst other things. 
