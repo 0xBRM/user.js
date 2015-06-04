@@ -21,9 +21,9 @@ Extensions:
 ======================
 
 
-![Firefox](https://i.imgur.com/HfLNk11.png)
+![Firefox](https://i.imgur.com/MhuXZFK.png)
 
-![Chromium](https://i.imgur.com/Q9oqM6E.png)
+![Chromium](https://i.imgur.com/ygirUof.png)
 
 
 Note how Firefox HTTP_ACCEPT headers actually convey less bits of identifying information, despite being slightly less common as a whole than its Chromium counterpart, spoofing (much like Firefox mind you, but not natively) the UA, HTTP_ACCEPT headers, and blocking access to plugins and what not.
