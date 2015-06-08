@@ -2,6 +2,11 @@
 
 <h1 align="center">Sane security conscious settings</h1>
 
+To use, place user.js in one of the following folders:
+* GNU/Linux (hidden folder): ~/.mozilla/firefox/<profile folder> 
+* Windows: C:\Users\<Username>\AppData\Roaming\Mozilla\Firefox\Profiles\<Profile>\
+
+
 Notes:
 * DOM storage's size has been reduced, but has not been disabled for compatibility purposes;
 * Smooth scrolling flags have been altered to match my preferences, as well as performance sensitive settings to increase the latter;
