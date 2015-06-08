@@ -26,6 +26,7 @@ user_pref("browser.geolocation.warning.infoURL", "");
 user_pref("browser.migration.version", 27);
 user_pref("browser.newtab.url", "about:blank");
 user_pref("browser.newtabpage.enhanced", false);
+user_pref("browser.newtabpage.directory.ping", "");
 user_pref("browser.safebrowsing.appRepURL", "");
 user_pref("browser.safebrowsing.downloads.enabled", false);
 user_pref("browser.safebrowsing.downloads.remote.enabled", false);
