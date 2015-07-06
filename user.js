@@ -58,6 +58,7 @@ user_pref("dom.gamepad.enabled" false);
 user_pref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false);
 user_pref("dom.mozApps.used", true);
 user_pref("dom.storage.default_quota", 1024);
+user_pref("dom.webcomponents.enabled", true);
 user_pref("experiments.activeExperiment", false);
 user_pref("extensions.blocklist.enabled", false);
 user_pref("extensions.pendingOperations", false);
