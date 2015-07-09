@@ -24,10 +24,10 @@ user_pref("browser.display.auto_quality_min_font_size", 0);
 user_pref("browser.display.document_color_use", 1);
 user_pref("browser.geolocation.warning.infoURL", "");
 user_pref("browser.migration.version", 27);
-// user_pref("browser.newtab.url", "about:blank");
+// user_pref("browser.newtab.url", "about:blank"); // Deprecated by FF
 user_pref("browser.newtabpage.enhanced", false);
 user_pref("browser.newtabpage.directory.ping", "");
-user_pref("browser.newtab.preload", false); //comment out if it's a local page
+user_pref("browser.newtab.preload", false); // comment out if it's a local page
 user_pref("browser.safebrowsing.appRepURL", "");
 user_pref("browser.safebrowsing.downloads.enabled", false);
 user_pref("browser.safebrowsing.downloads.remote.enabled", false);
@@ -54,6 +54,7 @@ user_pref("datareporting.healthreport.uploadEnabled", false);
 user_pref("dom.battery.enabled", false);
 user_pref("dom.enable_performance", false);
 user_pref("dom.event.clipboardevents.enabled", false);
+user_pref("dom.event.contextmenu.enabled", false);
 user_pref("dom.gamepad.enabled" false);
 user_pref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false);
 user_pref("dom.mozApps.used", true);
