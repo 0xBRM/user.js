@@ -28,6 +28,10 @@ user_pref("browser.migration.version", 27);
 user_pref("browser.newtabpage.enhanced", false);
 user_pref("browser.newtabpage.directory.ping", "");
 user_pref("browser.newtab.preload", false); // comment out if it's a local page
+user_pref("browser.pocket.api", "");
+user_pref("browser.pocket.enabled", false);
+user_pref("browser.pocket.enabledLocales", "");
+user_pref("browser.toolbarbuttons.introduced.pocket-button", false);
 user_pref("browser.safebrowsing.appRepURL", "");
 user_pref("browser.safebrowsing.downloads.enabled", false);
 user_pref("browser.safebrowsing.downloads.remote.enabled", false);
