@@ -24,10 +24,9 @@ user_pref("browser.display.auto_quality_min_font_size", 0);
 user_pref("browser.display.document_color_use", 1);
 user_pref("browser.geolocation.warning.infoURL", "");
 user_pref("browser.migration.version", 27);
-// user_pref("browser.newtab.url", "about:blank"); // Deprecated by FF
 user_pref("browser.newtabpage.enhanced", false);
 user_pref("browser.newtabpage.directory.ping", "");
-user_pref("browser.newtab.preload", false); // comment out if it's a local page
+user_pref("browser.newtab.preload", false);
 user_pref("browser.pocket.api", "");
 user_pref("browser.pocket.enabled", false);
 user_pref("browser.pocket.enabledLocales", "");
@@ -72,12 +71,6 @@ user_pref("extensions.ublock.popupFirewallPane", "true");
 user_pref("extensions.ui.dictionary.hidden", true);
 user_pref("extensions.ui.experiment.hidden", true);
 user_pref("extensions.ui.locale.hidden", true);
-user_pref("font.minimum-size.x-western", 12);
-user_pref("font.name.monospace.x-western", "Cousine");
-user_pref("font.name.sans-serif.x-western", "Arimo");
-user_pref("font.name.serif.x-western", "Tinos");
-user_pref("font.size.fixed.x-western", 15);
-user_pref("font.size.variable.x-western", 18);
 user_pref("general.smoothScroll.durationToIntervalRatio", 100);
 user_pref("general.smoothScroll.lines.durationMinMS", 100);
 user_pref("general.smoothScroll.mouseWheel.durationMaxMS", 300);
