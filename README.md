@@ -6,13 +6,13 @@ To use, place user.js in one of the following folders:
 * GNU/Linux (hidden folder): ~/.mozilla/firefox/<profile folder> 
 * Windows: C:\Users\<Username>\AppData\Roaming\Mozilla\Firefox\Profiles\<Profile>\
 
+IMPORTANT: You are to manually check everything below ````extensions.ui.locale.hidden````. Something is wrong with the user.js parser.
+
 
 Notes:
 * Set ````user_pref("general.useragent.override", "Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0");```` manually. You can thank mozilla for that, since it's 'technically' obsolete (it does work, I have no idea why Firefox stops reading user.js at that entry);
 * DOM storage's size has been reduced, but has not been disabled for compatibility purposes;
-* Smooth scrolling flags have been altered to match my preferences, as well as performance sensitive settings to increase the latter;
 * webGL is turned on for my convenience;
-* Apparently the scrolling settings aren't affected by user.js either, which is annoying, but I'll keep them there just because;
 * Fonts used:
 
     Serif: Tinos, Sans-serif: Arimo, Monospace: Cousine.
