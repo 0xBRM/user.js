@@ -15,7 +15,7 @@ Notes:
 * webGL is turned on for my convenience;
 * Fonts used:
 
-    Serif: Tinos, Sans-serif: Arimo, Monospace: Cousine.
+    Liberation family.
 
 Extensions:
 * [BetterPrivacy](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/)
