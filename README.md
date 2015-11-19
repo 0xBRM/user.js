@@ -28,7 +28,7 @@ Extensions:
 ======================
 
 
-![Firefox](https://i.imgur.com/MhuXZFK.png)
+![Firefox](https://fuwa.se/f/9gXXAU.png)
 
 ![Chromium](https://i.imgur.com/ygirUof.png)
 
