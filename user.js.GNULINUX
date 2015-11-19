@@ -44,6 +44,7 @@ user_pref("browser.search.hiddenOneOffs", "");
 user_pref("browser.search.region", "US");
 user_pref("browser.search.suggest.enabled", false);
 user_pref("browser.search.useDBForOrder", true);
+user_pref("browser.selfsupport.url", "");
 user_pref("browser.send_pings", true);
 user_pref("browser.send_pings.require_same_host", true);
 user_pref("browser.sessionstore.privacy_level_deferred", 2);
