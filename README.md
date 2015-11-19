@@ -30,10 +30,10 @@ Extensions:
 
 ![Firefox](https://fuwa.se/f/9gXXAU.png)
 
-![Chromium](https://i.imgur.com/ygirUof.png)
+![Chromium*](https://fuwa.se/f/YlWsFt.png)
 
 
-Note how Firefox HTTP_ACCEPT headers actually convey less bits of identifying information, despite being slightly less common as a whole than its Chromium counterpart, spoofing (much like Firefox mind you, but not natively) the UA, HTTP_ACCEPT headers, and blocking access to plugins and what not.
+Chromium requires [Chameleon 0.6](https://github.com/ghostwords/chameleon) in order to change the HTTP_ACCEPT headers, as well as the user agent (although replacing the latter is trivial).
 
 Flash users, disable font enumeration if possible (mms.cfg).
 
