@@ -9,8 +9,12 @@
  */
 
 user_pref("Network.cookie.p3p", "frfrarar");
+user_pref("app.update.url, "");
+user_pref("app.update.url.details, "");
+user_pref("app.update.url.manual, "");
 user_pref("apz.smooth_scroll_repaint_interval", 50);
 user_pref("beacon.enabled", false);
+user_pref("browser.aboutHomeSnippets.updateUrl", "");
 user_pref("browser.cache.disk_cache_ssl", false);
 user_pref("browser.cache.disk.capacity", 358400);
 user_pref("browser.cache.disk.enable", false);
@@ -24,6 +28,7 @@ user_pref("browser.display.auto_quality_min_font_size", 0);
 user_pref("browser.display.document_color_use", 1);
 user_pref("browser.geolocation.warning.infoURL", "");
 user_pref("browser.migration.version", 27);
+user_pref("browser.newtabpage.directory.source", "data:text/plain,{}")
 user_pref("browser.newtabpage.enhanced", false);
 user_pref("browser.newtabpage.directory.ping", "");
 user_pref("browser.newtab.preload", false);
@@ -44,6 +49,7 @@ user_pref("browser.search.hiddenOneOffs", "");
 user_pref("browser.search.region", "US");
 user_pref("browser.search.suggest.enabled", false);
 user_pref("browser.search.useDBForOrder", true);
+user_pref("browser.search.update", false);
 user_pref("browser.selfsupport.url", "");
 user_pref("browser.send_pings", true);
 user_pref("browser.send_pings.require_same_host", true);
@@ -86,7 +92,7 @@ user_pref("media.mediasource.ignore_codecs", true);
 user_pref("media.mediasource.webm.enabled", true);
 user_pref("media.navigator.enabled", false);
 user_pref("media.peerconnection.enabled", false);
-user_pref("media.webm.intel_decoder.enabled", true);
+/* ONLY FOR INTEL USERS user_pref("media.webm.intel_decoder.enabled", true); */
 user_pref("media.webspeech.recognition.enable", false);
 user_pref("network.accept-encoding", "gzip, deflate");
 user_pref("network.accept.default", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8 ");
