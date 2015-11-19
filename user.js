@@ -95,7 +95,6 @@ user_pref("media.peerconnection.enabled", false);
 /* ONLY FOR INTEL USERS user_pref("media.webm.intel_decoder.enabled", true); */
 user_pref("media.webspeech.recognition.enable", false);
 user_pref("network.accept-encoding", "gzip, deflate");
-user_pref("network.accept.default", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8 ");
 user_pref("network.cookie.cookieBehavior", 1);
 user_pref("network.cookie.lifetime.days", 1);
 user_pref("network.cookie.lifetimePolicy", 3);
