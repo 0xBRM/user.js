@@ -18,7 +18,7 @@ Notes:
     Liberation family.
 
 Extensions:
-* [BetterPrivacy](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/)
+* [~~BetterPrivacy~~](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) (not compatible with FF42)
 * [HTTPS Finder](https://github.com/kevinjacobs/HTTPS-Finder)
 * [HTTPS-Everywhere](https://github.com/EFForg/https-everywhere)
 * ~~Policeman~~ [uMatrix](https://github.com/gorhill/uMatrix/) (in default-deny mode)
