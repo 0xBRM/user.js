@@ -86,6 +86,7 @@ user_pref("geo.enabled", false);
 user_pref("geo.wifi.uri", "");
 user_pref("gfx.font_rendering.fallback.always_use_cmaps", true);
 user_pref("gfx.use_text_smoothing_setting", true);
+user_pref("loop.enabled", false);
 user_pref("intl.accept_languages", "en-us,en");
 user_pref("keyword.enabled", false);
 user_pref("media.fragmented-mp4.ffmpeg.enabled", true);
