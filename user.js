@@ -32,6 +32,7 @@ user_pref("browser.newtabpage.directory.source", "data:text/plain,{}")
 user_pref("browser.newtabpage.enhanced", false);
 user_pref("browser.newtabpage.directory.ping", "");
 user_pref("browser.newtab.preload", false);
+user_pref("browser.pagethumbnails.capturing_disabled", true);
 user_pref("browser.pocket.api", "");
 user_pref("browser.pocket.enabled", false);
 user_pref("browser.pocket.enabledLocales", "");
