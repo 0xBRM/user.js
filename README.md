@@ -15,14 +15,17 @@ Notes:
 * webGL is turned on for my convenience;
 * Fonts used:
 
-    Liberation family.
+    Serif: Liberation Serif
+    Sans-Serif: Ubuntu
+    Monospace: Ubuntu Mono
 
 Extensions:
 * [~~BetterPrivacy~~](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) (not compatible with FF42)
-* [HTTPS Finder](https://github.com/kevinjacobs/HTTPS-Finder)
+* [Decentraleyes](https://github.com/Synzvato/decentraleyes)
 * [HTTPS-Everywhere](https://github.com/EFForg/https-everywhere)
-* ~~Policeman~~ [uMatrix](https://github.com/gorhill/uMatrix/) (in default-deny mode)
-* [uBlock by Gorhill](https://github.com/gorhill/ublock/)
+* [HTTPS Finder](https://github.com/kevinjacobs/HTTPS-Finder)
+* ~~Policeman~~ [uMatrix](https://github.com/gorhill/uMatrix/) (in default-deny mode; malware lists checked)
+* [uBlock by Gorhill](https://github.com/gorhill/ublock/) (non-advanced mode; malware lists unchecked)
 
 
 ======================
@@ -35,20 +38,14 @@ Extensions:
 
 Chromium requires [Chameleon 0.6](https://github.com/ghostwords/chameleon) in order to change the HTTP_ACCEPT headers, as well as the user agent (although replacing the latter is trivial).
 
-Flash users, disable font enumeration if possible (mms.cfg).
+Flash users, disable font enumeration if possible (mms.cfg). Firefox users ought to use [freshplayerplugin](https://github.com/i-rinat/freshplayerplugin), a  ppapi2npapi compatibility layer that allows Firefox to use Chrome's up-to-date pepperflash.
 
 
 =====================
-
-
-TODO list:
-* Find a more common UA/"UA/rest" combination;
-* Describe what each about:config entry does.
-
 
 
 
 For a user.js with more emphasis on security (occasionally at the cost of functionality, like when you completely disable DOM storage, for instance), and less emphasis on blending in, check [pyllyukko's user.js](https://github.com/pyllyukko/user.js).
 
 
-**Note:** This is my full FF profile (this user.js plus defaults), complete with lower latency smooth scrolling, different fonts (with better hinting, refer to [this](https://wiki.archlinux.org/index.php/Croscore_Fonts)), network related tweaks to squeeze some performance out of it, general performance based settings, amongst other things. 
+**Note:** This is my ESR Firefox profile, with not only security-focused settings, but also network related tweaks to squeeze some performance out of it, general performance based settings, amongst other things. 
