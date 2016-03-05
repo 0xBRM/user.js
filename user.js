@@ -9,9 +9,9 @@
  */
 
 user_pref("Network.cookie.p3p", "frfrarar");
-user_pref("app.update.url, "");
-user_pref("app.update.url.details, "");
-user_pref("app.update.url.manual, "");
+user_pref("app.update.url", "");
+user_pref("app.update.url.details", "");
+user_pref("app.update.url.manual", "");
 user_pref("apz.smooth_scroll_repaint_interval", 50);
 user_pref("beacon.enabled", false);
 user_pref("browser.aboutHomeSnippets.updateUrl", "");
@@ -66,7 +66,7 @@ user_pref("dom.battery.enabled", false);
 user_pref("dom.enable_performance", false);
 user_pref("dom.event.clipboardevents.enabled", false);
 user_pref("dom.event.contextmenu.enabled", false);
-user_pref("dom.gamepad.enabled" false);
+user_pref("dom.gamepad.enabled", false);
 user_pref("dom.ipc.plugins.flash.subprocess.crashreporter.enabled", false);
 user_pref("dom.mozApps.used", true);
 user_pref("dom.storage.default_quota", 1024);
@@ -129,7 +129,7 @@ user_pref("security.csp.experimentalEnabled", true);
 user_pref("security.mixed_content.block_display_content", true);
 user_pref("security.cert_pinning.enforcement_level", 2);
 user_pref("security.ssl.errorReporting.enabled", false);
-user_pref("security.ssl.treat_unsafe_negotiation_as_broken" true);
+user_pref("security.ssl.treat_unsafe_negotiation_as_broken", true);
 user_pref("security.ssl3.ecdhe_ecdsa_rc4_128_sha", false);
 user_pref("security.ssl3.ecdhe_rsa_rc4_128_sha", false);
 user_pref("security.ssl3.rsa_rc4_128_md5", false);
