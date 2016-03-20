@@ -6,9 +6,6 @@ To use, place user.js in one of the following folders:
 * GNU/Linux (hidden folder): ~/.mozilla/firefox/<profile folder> 
 * Windows: C:\Users\<Username>\AppData\Roaming\Mozilla\Firefox\Profiles\<Profile>\
 
-IMPORTANT: You are to manually check everything below ````extensions.ui.locale.hidden````. Something is wrong with the user.js parser.
-
-
 Notes:
 * Set ````user_pref("general.useragent.override", "Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0");```` manually just in case.
 * DOM storage's size has been reduced, but has not been disabled for compatibility purposes;
