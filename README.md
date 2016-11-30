@@ -12,16 +12,11 @@ Notes:
 * webGL is turned on for my convenience;
 * Fonts used:
 
-    Serif: Liberation Serif
-    Sans-Serif: Ubuntu
-    Monospace: Ubuntu Mono
-
 Extensions:
-* [~~BetterPrivacy~~](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) (not compatible with FF42)
 * [Decentraleyes](https://github.com/Synzvato/decentraleyes)
 * [HTTPS-Everywhere](https://github.com/EFForg/https-everywhere)
 * [HTTPS Finder](https://github.com/kevinjacobs/HTTPS-Finder)
-* ~~Policeman~~ [uMatrix](https://github.com/gorhill/uMatrix/) (in default-deny mode; malware lists checked)
+* [uMatrix](https://github.com/gorhill/uMatrix/) (in default-deny mode; malware lists checked)
 * [uBlock by Gorhill](https://github.com/gorhill/ublock/) (non-advanced mode; all lists checked in uMatrix unchecked)
 
 
