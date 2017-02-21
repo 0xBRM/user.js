@@ -7,10 +7,8 @@ To use, place user.js in one of the following folders:
 * Windows: C:\Users\<Username>\AppData\Roaming\Mozilla\Firefox\Profiles\yourprofile\
 
 Notes:
-* Set ````user_pref("general.useragent.override", "Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0");```` manually just in case.
 * DOM storage's size has been reduced, but has not been disabled for compatibility purposes;
 * webGL is turned on for my convenience;
-* Fonts used:
 
 Extensions:
 * [Decentraleyes](https://github.com/Synzvato/decentraleyes)
@@ -38,6 +36,3 @@ Flash users, disable font enumeration if possible (mms.cfg). Firefox users ought
 
 
 For a user.js with more emphasis on security (occasionally at the cost of functionality, like when you completely disable DOM storage, for instance), and less emphasis on blending in, check [pyllyukko's user.js](https://github.com/pyllyukko/user.js). To compare privacy conscious user.js files, use [jm42's compare-user.js](https://github.com/jm42/compare-user.js).
-
-
-**Note:** This is my ESR Firefox profile, with not only security-focused settings, but also network related tweaks to squeeze some performance out of it, general performance based settings, amongst other things. 
